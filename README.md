@@ -48,9 +48,9 @@ Busco uma oportunidade de **estágio ou desenvolvedor Backend Júnior**, onde po
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biel3234&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel3234&theme=tokyonight&layout=compact&langs_count=8" alt="Linguagens mais utilizadas"/>
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Biel3234&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Biel3234&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ---
